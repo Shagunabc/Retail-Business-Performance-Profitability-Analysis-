@@ -1,7 +1,5 @@
 # Retail-Business-Performance-Profitability-Analysis-
 
-# Retail Business Performance & Profitability Analysis
-
 ## Objective
 Analyze retail transactional data to find profit-draining categories, optimize inventory turnover, and identify seasonal trends.
 
